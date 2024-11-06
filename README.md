@@ -1,7 +1,6 @@
 # Cross-Lingual Transfer Learning for Indian Languages
 Course Project: CSE556 (Natural Language Processing)
-### Authors
-Arnav Goel, Medha Hira, Siddharth Rajput, Amil Bhagat
+Contributors: Arnav Goel, Medha Hira, Siddharth Rajput, Amil Bhagat
 
 ### Overview
 This project investigates cross-lingual transfer learning for low-resource Indian languages, aiming to bridge language representation gaps using task-specific models. The project leverages Multilingual BERT (mBERT) to facilitate knowledge transfer across languages by fine-tuning on data-rich languages and evaluating on data-poor ones. 
